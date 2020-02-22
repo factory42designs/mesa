@@ -5,7 +5,7 @@ install:
 
 
 script:
-- sphinx-build -Wv source build/html
+- sphinx-build -Wv docs/source docs/build/html
 
 deploy:
 # publish docs on push
