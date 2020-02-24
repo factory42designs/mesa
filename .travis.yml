@@ -13,6 +13,6 @@ deploy:
   skip_cleanup: true
   keep-history: false
   github_token: $GH_TOKEN
-  local_dir: build/html
+  local_dir: docs/build/html
   on:
     branch:  master
