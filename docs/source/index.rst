@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to Factory42 Designs Mesa Card documentation!
-=====================================
+=====================================================
 
 .. toctree::
    :maxdepth: 2
